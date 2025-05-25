@@ -1,0 +1,1 @@
+whisper "Entrevista Diversidade e inclusão.mpeg" --language Portuguese --task transcribe --model medium
